@@ -1,2 +1,2 @@
-# Java_scrip_lessons
+# Java_script_lessons
 Java_scrip_lesson_3
